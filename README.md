@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a dedicated platform engineer with a passion f
 - 👯 I’m open to collaborating on open-source projects and sharing knowledge with the community.
 - 💬 Ask me about anything related to cloud infrastructure, automation, or DevOps.
 - 📫 How to reach me: [pye.aung@thitsaworks.com](mailto:pye.aung@thitsaworks.com)
-- ⚡ Fun fact: I love reading and watching premier league football matches in my free time.
+- ⚡ Fun fact: I enjoy reading books and watching Premier League football matches in my free time.
 
 ## 🛠️ Technologies & Tools
 
