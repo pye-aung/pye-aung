@@ -1,57 +1,36 @@
+# Hi there, I'm Pye Aung 👋
 
-<!--
-**pye-aung/pyephyoeaung.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a dedicated platform engineer with a passion for building scalable and reliable infrastructure. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I specialize in platform engineering, focusing on cloud infrastructure, automation, and DevOps practices.
+- 🌱 I'm currently diving deeper into Kubernetes and advanced cloud-native technologies.
+- 👯 I’m open to collaborating on open-source projects and sharing knowledge with the community.
+- 💬 Ask me about anything related to cloud infrastructure, automation, or DevOps.
+- 📫 How to reach me: [pye.aung@thitsaworks.com](mailto:pye.aung@thitsaworks.com)
+- ⚡ Fun fact: I love reading and watching premier league football matches in my free time.
 
+## 🛠️ Technologies & Tools
 
-<h1 style = font-size: "50px" align="center"> Hi, I am Pete <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. 
-<p align="center">
+- Programming Languages: Python, Bash, JavaScript
+- Cloud Providers: AWS, GCP, Azure
+- Containerization: Docker, Kubernetes
+- Infrastructure as Code: Terraform, OpenTofu
+- CI/CD: Jenkins, GitHub Actions, GitlabCI
+- Monitoring & Logging: Prometheus, Grafana
+- Others: Git, REST APIs, Microservices, Agile/Scrum
 
-<!-- Connect With Me: Linkedin -->
-<a href="https://www.linkedin.com/in/pyephyoeaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="ashok" width="30" /></a>
-</p>
+## 📈 GitHub Stats
 
-<!-- About Me -->
-<h2 style = font-size: "50px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32" align="left"/>&nbsp <b>About Me</b></h2>
+![Pye Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pye-aung&show_icons=true&theme=radical)
 
-<p align="left">
+## 📫 Connect with Me
 
-</p>
-Updating soon..
-<br>
+- LinkedIn: [Pye Phyoe Aung](https://www.linkedin.com/in/pyephyoeaung/)
+- Twitter: [@pyephyoeaung](https://twitter.com/pyephyoeaung)
+- Personal Website: [pye-aung](https://pye-aung.github.io/)
 
-<!--My Tech Stack -->
-<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" align="left"/>&nbsp <b>My Tech Stack</b></h2>
-<p align="left">
-Updating soon..
-</p>
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-  [![Pete's github stats](https://github-readme-stats.vercel.app/api?username=pye-aung&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pye-aung)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br>
-<br>
-<br>
+Thanks for visiting! Have a great day! 😊
