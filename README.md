@@ -1,4 +1,4 @@
-# Hi there, I'm Pye Aung 👋
+# Hi there, I'm Pye Phyoe Aung 👋
 
 Welcome to my GitHub profile! I'm a dedicated platform engineer with a passion for building scalable and reliable infrastructure. Here's a little bit about me:
 
