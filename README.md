@@ -1,6 +1,8 @@
-# Hi, I'm Pye Phyoe Aung 👋
+# Hi, I'm Pye Phyoe Aung (Pete) 👋
 
 **Head of Platform Engineering | Cloud & Infrastructure Architect | Building Reliable Platforms and Teams**
+
+Most people know me as **Pete**.
 
 I started my career as a System Administrator and have spent the last decade growing through infrastructure, operations, DevOps, cloud engineering, and platform leadership.
 
