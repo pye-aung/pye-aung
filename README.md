@@ -1,36 +1,97 @@
-# Hi there, I'm Pye Phyoe Aung 👋
+# Hi, I'm Pye Phyoe Aung 👋
 
-Welcome to my GitHub profile! I'm a dedicated platform engineer with a passion for building scalable and reliable infrastructure. Here's a little bit about me:
+**Head of Platform Engineering | Cloud & Infrastructure Architect | Building Reliable Platforms and Teams**
 
-## 🚀 About Me
+I started my career as a System Administrator and have spent the last decade growing through infrastructure, operations, DevOps, cloud engineering, and platform leadership.
 
-- 💻 I specialize in platform engineering, focusing on cloud infrastructure, automation, and DevOps practices.
-- 🌱 I'm currently diving deeper into Kubernetes and advanced cloud-native technologies.
-- 👯 I’m open to collaborating on open-source projects and sharing knowledge with the community.
-- 💬 Ask me about anything related to cloud infrastructure, automation, or DevOps.
-- 📫 How to reach me: [pye.aung@thitsaworks.com](mailto:pye.aung@thitsaworks.com)
-- ⚡ Fun fact: I enjoy reading books and watching Premier League football matches in my free time.
+Today, I lead Platform Engineering at ThitsaWorks, where I focus on designing and operating scalable platforms, building high-performing engineering teams, and enabling reliable digital financial services across multiple countries.
 
-## 🛠️ Technologies & Tools
+My work spans cloud infrastructure, Kubernetes platforms, networking, security, observability, disaster recovery, and platform architecture. I enjoy solving complex infrastructure challenges, improving engineering practices, and helping teams move faster through automation and better platform design.
 
-- Programming Languages: Python, Bash, JavaScript
-- Cloud Providers: AWS, GCP, Azure
-- Containerization: Docker, Kubernetes
-- Infrastructure as Code: Terraform, OpenTofu
-- CI/CD: Jenkins, GitHub Actions, GitlabCI
-- Monitoring & Logging: Prometheus, Grafana
-- Others: Git, REST APIs, Microservices, Agile/Scrum
+---
 
-## 📈 GitHub Stats
+## 🚀 What I Focus On
 
-![Pye Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pye-aung&show_icons=true&theme=radical)
+- Platform Engineering and Infrastructure Strategy
+- Cloud Architecture and Kubernetes Platforms
+- Reliability, High Availability, and Disaster Recovery
+- DevOps, GitOps, and Platform Automation
+- Networking, Security, and Production Operations
+- Engineering Leadership and Team Development
+- Technical Documentation and Operational Excellence
 
-## 📫 Connect with Me
+---
 
-- LinkedIn: [Pye Phyoe Aung](https://www.linkedin.com/in/pyephyoeaung/)
-- Twitter: [@pyephyoeaung](https://twitter.com/pyephyoeaung)
-- Personal Website: [pye-aung](https://pye-aung.github.io/)
+## 📈 Professional Journey
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+Over the years, I've had the opportunity to:
 
-Thanks for visiting! Have a great day! 😊
+- Build and lead Platform Engineering teams from the ground up.
+- Design and operate cloud-native platforms supporting national-scale payment systems.
+- Deliver infrastructure and production platforms across multiple countries.
+- Lead complex deployments, go-lives, migrations, and operational transformations.
+- Develop engineering standards, operational playbooks, and platform best practices.
+- Mentor engineers and help grow future technical leaders.
+
+---
+
+## 🛠️ Technologies & Domains
+
+### ☁️ Cloud & Infrastructure
+
+AWS • Azure • GCP • Kubernetes • Docker • Linux • Virtualization
+
+### ⚙️ Platform Engineering
+
+GitOps • ArgoCD • Terraform • OpenTofu • Infrastructure as Code
+
+### 📊 Observability & Operations
+
+Prometheus • Grafana • Loki • Incident Management • SRE Practices
+
+### 🔐 Networking & Security
+
+VPN • Load Balancing • DNS • PKI • Identity & Access Management
+
+### 💳 Payments & Fintech
+
+Mojaloop • Digital Payments • Financial Infrastructure • API Platforms
+
+---
+
+## 🎯 Current Interests
+
+- Platform Architecture and Engineering Leadership
+- Kubernetes at Scale
+- Cloud-Native Infrastructure
+- Engineering Productivity
+- Reliability Engineering
+- Building Sustainable Engineering Organizations
+
+---
+
+## 💡 Philosophy
+
+> Great platforms are not built only through technology.
+
+They are built through clear architecture, strong operational practices, good documentation, continuous learning, and empowered engineering teams.
+
+My goal is to create platforms that engineers enjoy operating and businesses can depend on.
+
+---
+
+## 📊 GitHub Stats
+
+![Pye Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pye-aung&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/pyephyoeaung/
+- GitHub: https://github.com/pye-aung
+- Website: https://pye-aung.github.io/
+
+---
+
+Outside of work, I enjoy reading, watching football, playing eFootball, and exploring new technologies and ideas.
